@@ -1,0 +1,18 @@
+[
+  {
+    "id": "amx13",
+    "label": "AMX 13",
+    "country": "France",
+    "year": "1950s",
+    "role": "Light tank",
+    "description_ar": "A French light tank known for its oscillating turret and mobility."
+  },
+  {
+    "id": "fox",
+    "label": "Fox",
+    "country": "UK",
+    "year": "",
+    "role": "",
+    "description_ar": "Short description here."
+  }
+]
